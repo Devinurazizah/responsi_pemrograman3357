@@ -1,0 +1,7 @@
+D:\20.11.3357\PEMROGRAMAN\Responsi pemrograman 3357\Responsi pemrograman 3357\bin\Debug\Responsi pemrograman 3357.exe.config
+D:\20.11.3357\PEMROGRAMAN\Responsi pemrograman 3357\Responsi pemrograman 3357\bin\Debug\Responsi pemrograman 3357.exe
+D:\20.11.3357\PEMROGRAMAN\Responsi pemrograman 3357\Responsi pemrograman 3357\bin\Debug\Responsi pemrograman 3357.pdb
+D:\20.11.3357\PEMROGRAMAN\Responsi pemrograman 3357\Responsi pemrograman 3357\obj\Debug\Responsi pemrograman 3357.csprojAssemblyReference.cache
+D:\20.11.3357\PEMROGRAMAN\Responsi pemrograman 3357\Responsi pemrograman 3357\obj\Debug\Responsi pemrograman 3357.csproj.CoreCompileInputs.cache
+D:\20.11.3357\PEMROGRAMAN\Responsi pemrograman 3357\Responsi pemrograman 3357\obj\Debug\Responsi pemrograman 3357.exe
+D:\20.11.3357\PEMROGRAMAN\Responsi pemrograman 3357\Responsi pemrograman 3357\obj\Debug\Responsi pemrograman 3357.pdb
